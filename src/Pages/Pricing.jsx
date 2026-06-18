@@ -20,7 +20,7 @@ export default function Product() {
             voluptatem iste.
           </p>
         </div>
-        <img src={img2} alt="overview of a large city with skyscrapers" />
+        <img src={img2} className={styles.productImage} alt="overview of a large city with skyscrapers" />
       </section>
     </main>
   );
