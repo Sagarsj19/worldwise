@@ -10,7 +10,7 @@ function BackButton() {
                 e.preventDefault();
                 navigate(-1);
             }}
-        ></Button>
+        > &larr; Back</Button>
     );
 }
 

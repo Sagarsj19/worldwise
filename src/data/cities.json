@@ -1,40 +1,65 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Pune",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-06-25T17:33:27.914Z",
+      "notes": "MyCity",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "18.526745016855244",
+        "lng": "73.87974219688375"
       },
-      "id": 73930385
+      "id": "Kf0JRDxL7rY"
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "cityName": "Khatao",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-06-25T17:34:44.790Z",
+      "notes": "My taluka",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "17.44833427456288",
+        "lng": "74.57164701166289"
       },
-      "id": 17806751
+      "id": "o_IsedqjJeU"
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Satara",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-06-25T17:36:24.913Z",
+      "notes": "RajdhaniSatara",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "17.70179888024407",
+        "lng": "74.02569128674229"
       },
-      "id": 98443197
+      "id": "jZEectyn-uY"
+    },
+    {
+      "cityName": "Kolhapur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-06-25T17:36:44.033Z",
+      "notes": "Apl kolhapur",
+      "position": {
+        "lat": "16.658146483569755",
+        "lng": "74.21137567490939"
+      },
+      "id": "WYkf_VJZfWU"
+    },
+    {
+      "cityName": "Karad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2026-06-25T17:37:05.757Z",
+      "notes": "Learning City",
+      "position": {
+        "lat": "17.27476191134403",
+        "lng": "74.1956954418248"
+      },
+      "id": "LbV4Iq4sMGs"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
